@@ -1,4 +1,4 @@
-package com.example
+package net.andrewthepika
 
 import xyz.xenondevs.nova.addon.Addon
 
