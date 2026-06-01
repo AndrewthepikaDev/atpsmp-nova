@@ -1,4 +1,4 @@
-rootProject.name = "example" // TODO: Change this to your addon id
+rootProject.name = "atpsmp" // TODO: Change this to your addon id
 
 dependencyResolutionManagement {
     repositories {
