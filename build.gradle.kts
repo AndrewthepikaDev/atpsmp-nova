@@ -1,5 +1,5 @@
-group = "com.example" // TODO: Change this to your group
-version = "1.0-SNAPSHOT" // TODO: Change this to your addon version
+group = "net.andrewthepika" // TODO: Change this to your group
+version = "1" // TODO: Change this to your addon version
 
 plugins {
     alias(libs.plugins.kotlin)
