@@ -19,7 +19,7 @@ dependencies {
 addon {
     name = project.name.replaceFirstChar(Char::uppercase)
     version = project.version.toString()
-    main = "com.example.ExampleAddon" // TODO: Change this to your main class
+    main = "net.andrewthepika.ExampleAddon" // TODO: Change this to your main class
     
     // output directory for the generated addon jar is read from the "outDir" project property (-PoutDir="...")
     val outDir = project.findProperty("outDir")
